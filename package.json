@@ -16,7 +16,7 @@
     "build": "next build",
     "start": "next start",
     "prettier": "prettier --write \"**/*.{ts,tsx,js}\"",
-    "lint": "next lint --fix",
+    "lint": "next lint --fix"
   },
   "dependencies": {
     "@chakra-ui/icons": "2.1.1",
