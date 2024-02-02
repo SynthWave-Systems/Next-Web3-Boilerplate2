@@ -17,7 +17,6 @@
     "start": "next start",
     "prettier": "prettier --write \"**/*.{ts,tsx,js}\"",
     "lint": "next lint --fix",
-    "prepare": "husky install"
   },
   "dependencies": {
     "@chakra-ui/icons": "2.1.1",
