@@ -15,7 +15,7 @@ const { chains, publicClient } = configureChains(
   [oortMainnetDev],
   [
     jsonRpcProvider({
-      rpc: (chain) => ({
+      rpc: () => ({
         http: `https://dev-rpc.oortech.com`,
       }),
     }),
