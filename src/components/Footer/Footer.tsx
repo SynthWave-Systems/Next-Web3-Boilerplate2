@@ -8,11 +8,11 @@ const Footer: FC = () => {
   return (
     <Box as="footer" p={"1rem"} position="sticky" bottom={0} zIndex={10} textAlign={"center"}>
       <Link
-        href="https://github.com/Pedrojok01/Next-Web3-Boilerplate"
+        href=""
         target="_blank"
         rel="noopener noreferrer"
       >
-        Please, leave a ⭐️ on this boilerplate if you like it!
+        ..
       </Link>
     </Box>
   );
